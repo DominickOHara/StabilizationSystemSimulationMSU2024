@@ -1,6 +1,7 @@
 # StabilizationSystemSimulationMSU2024
 
 Written in C++ Utilizing Raylib, Raygui and a serial library.
+Everything is documented using doxygen syntax.
 
 Used to visualize and test stabilization system for rocket; made for rocket research project.
 
