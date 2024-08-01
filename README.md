@@ -1,5 +1,7 @@
 # StabilizationSystemSimulationMSU2024
 
+Written in C++ Utilizing Raylib, Raygui and a serial library.
+
 Used to visualize and test stabilization system for rocket; made for rocket research project.
 
 Features importing servo data across serial ports to visualize the stabilization system;
