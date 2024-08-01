@@ -1,2 +1,8 @@
 # StabilizationSystemSimulationMSU2024
+
 Used to visualize and test stabilization system for rocket; made for rocket research project.
+
+Features importing servo data across serial ports to visualize the stabilization system;
+Can change the spped at which canard fins rotate
+Can change orientation of rocket or rotation of canard fins manually
+Can change use of degrees or radians
